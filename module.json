@@ -1,7 +1,7 @@
 {
-  "name": "starborne-artificer-necrosteel",
-  "title": "Starborne - Artificer & Necrosteel Beasts",
-  "description": "Adds the Artificer class and Necrosteel creatures with Compression Mode for the Starborne Adventures setting.",
+  "name": "starborne",
+  "title": "Starborne",
+  "description": "Adds Starborne custom classes, creatures, and features for Pathfinder 2e in the Starborne Adventures setting.",
   "version": "1.0.2",
   "url": "https://github.com/lancemc/foundry-starborne-module",
   "manifest": "https://raw.githubusercontent.com/lancemc/foundry-starborne-module/main/module.json",
