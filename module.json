@@ -2,7 +2,7 @@
   "name": "starborne",
   "title": "Starborne",
   "description": "Adds Starborne custom classes, creatures, and features for Pathfinder 2e in the Starborne Adventures setting.",
-  "version": "1.0.2",
+  "version": "1.0.21",
   "url": "https://github.com/lancemc/foundry-starborne-module",
   "manifest": "https://raw.githubusercontent.com/lancemc/foundry-starborne-module/main/module.json",
   "download": "https://github.com/lancemc/foundry-starborne-module/archive/refs/heads/main.zip",
