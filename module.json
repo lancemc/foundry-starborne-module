@@ -1,3 +1,32 @@
-"manifest": "https://raw.githubusercontent.com/lancemc/foundry-starborne-module/main/module.json",
-"download": "https://github.com/lancemc/foundry-starborne-module/raw/main/starborne-artificer-necrosteel.zip"
-
+{
+  "name": "starborne-artificer-necrosteel",
+  "title": "Starborne - Artificer & Necrosteel Beasts",
+  "description": "Adds the Artificer class and Necrosteel creatures with Compression Mode for the Starborne Adventures setting.",
+  "version": "1.0.0",
+  "author": "Starborne Adventures",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
+  "system": [
+    "pf2e"
+  ],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "name": "artificer-class",
+      "label": "Artificer Class",
+      "path": "packs/artificer-class.db",
+      "type": "Item",
+      "system": "pf2e"
+    },
+    {
+      "name": "necrosteel-beasts",
+      "label": "Necrosteel Beasts",
+      "path": "packs/necrosteel-beasts.db",
+      "type": "Actor",
+      "system": "pf2e"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/lancemc/foundry-starborne-module/main/module.json",
+  "download": "https://github.com/lancemc/foundry-starborne-module/raw/main/starborne-artificer-necrosteel.zip"
+}
