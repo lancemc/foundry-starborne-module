@@ -1,0 +1,106 @@
+{
+  "name": "Warlock",
+  "type": "class",
+  "img": "icons/magic/unholy/orb-glow-pink.webp",
+  "system": {
+    "description": {
+      "value": "<p><strong>Warlocks</strong> gain supernatural powers by forming pacts with mysterious entities beyond the Source: ancient beings, dead gods, the Void, or primal forces. In a world ruled by arcane orthodoxy, they are considered heretical anomalies, often feared, sometimes hunted, always underestimated.</p>"
+    },
+    "hp": 8,
+    "keyAbility": {
+      "value": [
+        "cha"
+      ]
+    },
+    "perception": {
+      "value": "trained"
+    },
+    "savingThrows": {
+      "fortitude": "trained",
+      "reflex": "trained",
+      "will": "expert"
+    },
+    "attacks": {
+      "simple": "trained",
+      "martial": "untrained",
+      "advanced": "untrained"
+    },
+    "defenses": {
+      "unarmored": "trained",
+      "light": "trained",
+      "medium": "untrained",
+      "heavy": "untrained"
+    },
+    "skills": {
+      "trained": [
+        "occultism",
+        "intimidation"
+      ],
+      "choices": {
+        "amount": 3,
+        "any": true
+      }
+    },
+    "proficiencies": {
+      "classDC": "trained",
+      "spellcasting": "trained"
+    },
+    "casting": {
+      "tradition": "occult",
+      "ability": "cha",
+      "rank": "prepared",
+      "castingType": "innate"
+    }
+  },
+  "flags": {
+    "core": {},
+    "pf2e": {
+      "classFeatSlots": {
+        "1": {
+          "label": "1th Level",
+          "count": 1
+        },
+        "2": {
+          "label": "2th Level",
+          "count": 1
+        },
+        "4": {
+          "label": "4th Level",
+          "count": 1
+        },
+        "6": {
+          "label": "6th Level",
+          "count": 1
+        },
+        "8": {
+          "label": "8th Level",
+          "count": 1
+        },
+        "10": {
+          "label": "10th Level",
+          "count": 1
+        },
+        "12": {
+          "label": "12th Level",
+          "count": 1
+        },
+        "14": {
+          "label": "14th Level",
+          "count": 1
+        },
+        "16": {
+          "label": "16th Level",
+          "count": 1
+        },
+        "18": {
+          "label": "18th Level",
+          "count": 1
+        },
+        "20": {
+          "label": "20th Level",
+          "count": 1
+        }
+      }
+    }
+  }
+}
