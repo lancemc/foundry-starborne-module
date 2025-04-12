@@ -2,7 +2,7 @@
   "name": "starborne",
   "title": "Starborne",
   "description": "Custom Warlock class for Pathfinder 2E Remastered",
-  "version": "1.0.225",
+  "version": "1.0.226",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "11.315",
   "author": "Starborne Adventures",
@@ -14,8 +14,8 @@
     }
   ],
   "url": "https://github.com/lancemc/foundry-starborne-module",
-  "manifest": "https://github.com/lancemc/foundry-starborne-module/releases/download/v1.0.225/module.json",
-  "download": "https://github.com/lancemc/foundry-starborne-module/releases/download/v1.0.225/starborne.zip",
+  "manifest": "https://github.com/lancemc/foundry-starborne-module/releases/download/v1.0.226/module.json",
+  "download": "https://github.com/lancemc/foundry-starborne-module/releases/download/v1.0.226/starborne.zip",
   "readme": "https://github.com/lancemc/foundry-starborne-module/blob/main/README.md",
   "packs": [
     {
